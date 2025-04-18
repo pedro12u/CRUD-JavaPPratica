@@ -43,9 +43,5 @@ Professor: Eliel Nascimento
 Disciplina: Programação Avançada
 Data da Prova: 17/04/2025
 
-bash
-Copiar
-Editar
-http://localhost:8080/entidade
 ✅ Considerações Finais
 O projeto foi desenvolvido com foco nas boas práticas de API REST, uso adequado de DTOs, estruturação em camadas, testes via Postman e documentação clara do código. A prova atende a todos os requisitos propostos pelo professor Eliel Nascimento.
